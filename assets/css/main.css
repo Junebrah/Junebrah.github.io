@@ -1413,7 +1413,7 @@
 		/* Footer */
 
 			#footer {
-				color: #546b76;
+				color: #5F9F9F;
 				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
 			}
 
@@ -1424,7 +1424,7 @@
 				}
 
 				#footer a {
-					color: #546b76;
+					color: #5F9F9F;
 				}
 
 		/* Copyright */
@@ -1434,7 +1434,7 @@
 				box-shadow: inset 0px 1px 0px 0px #e0e4e7;
 				text-align: center;
 				padding: 45px 0 80px 0;
-				color: #8d9ca3;
+				color: #5F9F9F;
 				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
 			}
 
